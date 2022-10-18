@@ -1,5 +1,5 @@
 a = [1,2,3,4,5]                             # list a
-b = 1
+b = 1                                       # variable declaration
 c = 5
 d = 5
 while a:
